@@ -1,4 +1,4 @@
-<h3 align="center">Para mim, programar é uma forma de arte. Meu objetivo é ir além do convencional, utilizando o código como um pincel para criar experiências digitais inovadoras e imersivas. Busco projetos que me permitam explorar a intersecção entre a lógica e a criatividade.</h3>
+<h4 align="center">Para mim, programar é uma forma de arte. Meu objetivo é ir além do convencional, utilizando o código como um pincel para criar experiências digitais inovadoras e imersivas. Busco projetos que me permitam explorar a intersecção entre a lógica e a criatividade.</h4>
 
 <p align="center">
   <em>Um entusiasta da tecnologia e futuro Analista de Sistemas, construindo o futuro, uma linha de código por vez.</em>
@@ -6,12 +6,13 @@
 
 
 
+
+<p
+
+
 </p>
 
-
-
-</p>
-## 👨‍💻 Sobre Mim
+  👨‍💻 Sobre Mim
 
 <p>
   Desde sempre, sou um apaixonado por tecnologia, o que me levou à formação como <strong>Técnico em Informática para Internet</strong>. Essa jornada solidificou minha paixão e me deu a base para resolver problemas de forma criativa e eficiente.
@@ -25,12 +26,12 @@
 
 
 
+
+<p
+
 </p>
 
-
-
-</p>
-## 🛠️ Tecnologias e Ferramentas
+ 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <em>Aqui você pode listar as tecnologias que está aprendendo ou já domina. Use os ícones para um visual mais moderno!</em>
@@ -41,13 +42,13 @@
 </p>
 
 
+<p
 
 
+</p>
 
 
-
-
-## 📫 Vamos nos Conectar?
+ 📫 Meios de contato:
 
 
 <p align="center">
