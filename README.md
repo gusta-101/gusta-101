@@ -12,7 +12,7 @@
 
 </p>
 
-  👨‍💻 Sobre Mim
+  👨‍💻 Sobre mim
 
 <p>
   Desde sempre, sou um apaixonado por tecnologia, o que me levou à formação como <strong>Técnico em Informática para Internet</strong>. Essa jornada solidificou minha paixão e me deu a base para resolver problemas de forma criativa e eficiente.
@@ -31,7 +31,7 @@
 
 </p>
 
- 🛠️ Tecnologias e Ferramentas
+ 🛠️ Tecnologias e ferramentas
 
 <p align="center">
   <em>Aqui você pode listar as tecnologias que está aprendendo ou já domina. Use os ícones para um visual mais moderno!</em>
