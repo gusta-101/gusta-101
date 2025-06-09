@@ -1,3 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center">Para mim, programar é uma forma de arte. Meu objetivo é ir além do convencional, utilizando o código como um pincel para criar experiências digitais inovadoras e imersivas. Busco projetos que me permitam explorar a intersecção entre a lógica e a criatividade.</h3>
 
 <p align="center">
@@ -34,7 +49,7 @@
  🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <em>Aqui você pode listar as tecnologias que está aprendendo ou já domina. Use os ícones para um visual mais moderno!</em>
+  <em>Tecnologias e Linguagens que eu estou aprendendo</em>
   <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,github,vscode" />
