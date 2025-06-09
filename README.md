@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/e5ab03cd-47d5-4ec7-818d-4bfa8e4742b7)
+
+<br>
+<br> 
+<br>
+
 
 <h3 align="center">Para mim, programar é uma forma de arte. Meu objetivo é ir além do convencional, utilizando o código como um pincel para criar experiências digitais inovadoras e imersivas. Busco projetos que me permitam explorar a intersecção entre a lógica e a criatividade.</h3>
 <p align="center">
@@ -26,7 +32,7 @@
   <em>Tecnologias e Linguagens que eu estou aprendendo:</em>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,discord,c,github,vscode" />
   </a>
 </p>
 
