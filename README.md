@@ -1,10 +1,15 @@
-<h1 align="center">Para mim, programar é uma forma de arte. Meu objetivo é ir além do convencional, utilizando o código como um pincel para criar experiências digitais inovadoras e imersivas. Busco projetos que me permitam explorar a intersecção entre a lógica e a criatividade.</h1>
+<h2 align="center">Para mim, programar é uma forma de arte. Meu objetivo é ir além do convencional, utilizando o código como um pincel para criar experiências digitais inovadoras e imersivas. Busco projetos que me permitam explorar a intersecção entre a lógica e a criatividade.</h2>
 
 <p align="center">
   <em>Um entusiasta da tecnologia e futuro Analista de Sistemas, construindo o futuro, uma linha de código por vez.</em>
 </p>
 
----
+
+
+
+
+
+
 
 ## 👨‍💻 Sobre Mim
 
@@ -18,7 +23,12 @@
 - 🌱 **Interesses:** Desenvolvimento Web, Engenharia de Software e novas tecnologias.
 - 💼 **Buscando:** Oportunidades para aplicar meu conhecimento e crescer profissionalmente.
 
----
+
+
+
+
+
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -30,7 +40,12 @@
   </a>
 </p>
 
----
+
+
+
+
+
+
 
 ## 📫 Vamos nos Conectar?
 
