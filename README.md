@@ -26,7 +26,7 @@
   <em>Tecnologias e Linguagens que eu estou aprendendo:</em>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,C,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,c,github,vscode" />
   </a>
 </p>
 
