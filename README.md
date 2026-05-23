@@ -1,4 +1,3 @@
-
 <h3 align="center">Para mim, programar é uma forma de arte. Meu objetivo é ir além do convencional, utilizando o código como um pincel para criar experiências digitais inovadoras e imersivas. Busco projetos que me permitam explorar a intersecção entre a lógica e a criatividade.</h3>
 <p align="center">
   <em>Um entusiasta da tecnologia e futuro Analista de Sistemas, construindo o futuro, uma linha de código por vez.</em>
@@ -6,7 +5,7 @@
 
 <br>
 
-  👨‍💻 Sobre mim
+👨‍💻 Sobre mim
 
 <p>
   Desde sempre, sou um apaixonado por tecnologia, o que me levou à formação como <strong>Técnico em Informática para Internet</strong>. Essa jornada solidificou minha paixão e me deu a base para resolver problemas de forma criativa e eficiente.
@@ -20,17 +19,26 @@
 
 <br>
 
- 🛠️ Tecnologias e ferramentas
+🛠️ **Conhecimentos Técnicos (em desenvolvimento):**
 
-<p align="center">
-  <em>Tecnologias e Linguagens que eu estou aprendendo:</em>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,c,github,vscode" />
-  </a>
-</p>
+- **Linguagens de Programação:** Python, C.<br>
+  <img src="https://skillicons.dev/icons?i=python,c" />
 
- 📫 Meios de contato:
+- **Frameworks:** Django, Bootstrap.<br>
+  <img src="https://skillicons.dev/icons?i=django,bootstrap" />
+
+- **Desenvolvimento Web:** HTML5, CSS3.<br>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+
+- **Bancos de Dados:** MySQL, PostgreSQL.<br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+- **Tecnologias & Ferramentas:** Docker, Git, GitHub, VS Code.<br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+
+<br>
+
+📫 Meios de contato:
  
 <br>
  
